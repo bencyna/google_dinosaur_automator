@@ -4,8 +4,8 @@ import time
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
 
-#open site
+# ToDo 1. open site
 
-#get item distance
+# ToDo 2. get item distance
 
-#if at distance x, jump
+# ToDo 3. if at distance x, jump
